@@ -34,7 +34,7 @@ U 1 1 5F349CE3
 P 1200 6500
 F 0 "J1" H 1307 7367 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 1307 7276 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 1350 6500 50  0001 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 1350 6500 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1350 6500 50  0001 C CNN
 	1    1200 6500
 	1    0    0    -1  
@@ -244,7 +244,7 @@ U 1 1 5F3246A4
 P 1950 3700
 F 0 "C7" H 2042 3746 50  0000 L CNN
 F 1 "10uF" H 2042 3655 50  0000 L CNN
-F 2 "Diode_SMD:D_SOD-123" H 1950 3700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 1950 3700 50  0001 C CNN
 F 3 "~" H 1950 3700 50  0001 C CNN
 	1    1950 3700
 	1    0    0    -1  
@@ -395,7 +395,7 @@ U 1 1 5F319131
 P 3400 3000
 F 0 "U1" H 3400 1111 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 3400 1020 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3400 3000 50  0001 C CIN
+F 2 "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" H 3400 3000 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3400 3000 50  0001 C CNN
 	1    3400 3000
 	1    0    0    -1  
