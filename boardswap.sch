@@ -71,7 +71,6 @@ F 3 "" H 1800 1300 50  0001 C CNN
 	1    1800 1300
 	1    0    0    -1  
 $EndComp
-Connection ~ 2800 1500
 Wire Wire Line
 	2300 1500 2300 1200
 Wire Wire Line
@@ -87,8 +86,6 @@ F 3 "~" H 2100 1400 50  0001 C CNN
 	1    2100 1200
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2800 1500 2800 1250
 $Comp
 L Device:R_Small R1
 U 1 1 5F33EB69
@@ -244,7 +241,7 @@ U 1 1 5F3246A4
 P 1950 3700
 F 0 "C7" H 2042 3746 50  0000 L CNN
 F 1 "10uF" H 2042 3655 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1950 3700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1950 3700 50  0001 C CNN
 F 3 "~" H 1950 3700 50  0001 C CNN
 	1    1950 3700
 	1    0    0    -1  
@@ -255,7 +252,7 @@ U 1 1 5F3243B8
 P 1550 3700
 F 0 "C6" H 1642 3746 50  0000 L CNN
 F 1 "0.1uF" H 1642 3655 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1550 3700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1550 3700 50  0001 C CNN
 F 3 "~" H 1550 3700 50  0001 C CNN
 	1    1550 3700
 	1    0    0    -1  
@@ -266,7 +263,7 @@ U 1 1 5F3240F3
 P 1150 3700
 F 0 "C5" H 1242 3746 50  0000 L CNN
 F 1 "0.1uF" H 1242 3655 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1150 3700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1150 3700 50  0001 C CNN
 F 3 "~" H 1150 3700 50  0001 C CNN
 	1    1150 3700
 	1    0    0    -1  
@@ -277,7 +274,7 @@ U 1 1 5F323C8B
 P 750 3700
 F 0 "C4" H 842 3746 50  0000 L CNN
 F 1 "0.1uF" H 842 3655 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 750 3700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 750 3700 50  0001 C CNN
 F 3 "~" H 750 3700 50  0001 C CNN
 	1    750  3700
 	1    0    0    -1  
@@ -354,26 +351,6 @@ F 3 "~" H 4650 3600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3300 4800 2950 4800
-Connection ~ 3300 4800
-Wire Wire Line
-	2950 4800 2950 4900
-Wire Wire Line
-	3400 4800 3300 4800
-$Comp
-L power:GND #PWR0109
-U 1 1 5F31D09C
-P 2950 4900
-F 0 "#PWR0109" H 2950 4650 50  0001 C CNN
-F 1 "GND" H 2955 4727 50  0000 C CNN
-F 2 "" H 2950 4900 50  0001 C CNN
-F 3 "" H 2950 4900 50  0001 C CNN
-	1    2950 4900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3400 1200 3400 1050
-Wire Wire Line
 	3400 1200 3500 1200
 Connection ~ 3400 1200
 Wire Wire Line
@@ -387,17 +364,6 @@ F 1 "+5V" H 3415 1223 50  0000 C CNN
 F 2 "" H 3400 1050 50  0001 C CNN
 F 3 "" H 3400 1050 50  0001 C CNN
 	1    3400 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
-U 1 1 5F319131
-P 3400 3000
-F 0 "U1" H 3400 1111 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 3400 1020 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3400 3000 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3400 3000 50  0001 C CNN
-	1    3400 3000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2581,4 +2547,38 @@ Text GLabel 10150 1200 1    50   Input ~ 0
 COL12
 Text GLabel 10500 1200 1    50   Input ~ 0
 COL13
+Wire Wire Line
+	3400 1200 3400 1050
+Wire Wire Line
+	2800 1500 2800 1250
+$Comp
+L power:GND #PWR0109
+U 1 1 5F31D09C
+P 2950 4900
+F 0 "#PWR0109" H 2950 4650 50  0001 C CNN
+F 1 "GND" H 2955 4727 50  0000 C CNN
+F 2 "" H 2950 4900 50  0001 C CNN
+F 3 "" H 2950 4900 50  0001 C CNN
+	1    2950 4900
+	1    0    0    -1  
+$EndComp
+Connection ~ 2800 1500
+Wire Wire Line
+	2950 4800 2950 4900
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5F319131
+P 3400 3000
+F 0 "U1" H 3400 1111 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 3400 1020 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3400 3000 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3400 3000 50  0001 C CNN
+	1    3400 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 4800 3300 4800
+Connection ~ 3300 4800
+Wire Wire Line
+	2950 4800 3300 4800
 $EndSCHEMATC
