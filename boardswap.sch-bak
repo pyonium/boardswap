@@ -71,7 +71,6 @@ F 3 "" H 1800 1300 50  0001 C CNN
 	1    1800 1300
 	1    0    0    -1  
 $EndComp
-Connection ~ 2800 1500
 Wire Wire Line
 	2300 1500 2300 1200
 Wire Wire Line
@@ -352,19 +351,6 @@ F 3 "~" H 4650 3600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2950 4800 2950 4900
-$Comp
-L power:GND #PWR0109
-U 1 1 5F31D09C
-P 2950 4900
-F 0 "#PWR0109" H 2950 4650 50  0001 C CNN
-F 1 "GND" H 2955 4727 50  0000 C CNN
-F 2 "" H 2950 4900 50  0001 C CNN
-F 3 "" H 2950 4900 50  0001 C CNN
-	1    2950 4900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
 	3400 1200 3500 1200
 Connection ~ 3400 1200
 Wire Wire Line
@@ -378,17 +364,6 @@ F 1 "+5V" H 3415 1223 50  0000 C CNN
 F 2 "" H 3400 1050 50  0001 C CNN
 F 3 "" H 3400 1050 50  0001 C CNN
 	1    3400 1050
-	1    0    0    -1  
-$EndComp
-$Comp
-L editedavr:ATmega32U4RC-AU U1
-U 1 1 5F319131
-P 3400 3000
-F 0 "U1" H 3400 1111 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 3400 1020 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3400 3000 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3400 3000 50  0001 C CNN
-	1    3400 3000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2576,12 +2551,70 @@ Wire Wire Line
 	3400 1200 3400 1050
 Wire Wire Line
 	2800 1500 2800 1250
+$Comp
+L power:GND #PWR0109
+U 1 1 5F31D09C
+P 2950 4900
+F 0 "#PWR0109" H 2950 4650 50  0001 C CNN
+F 1 "GND" H 2955 4727 50  0000 C CNN
+F 2 "" H 2950 4900 50  0001 C CNN
+F 3 "" H 2950 4900 50  0001 C CNN
+	1    2950 4900
+	1    0    0    -1  
+$EndComp
+Connection ~ 2800 1500
+Wire Wire Line
+	2950 4800 2950 4900
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5F319131
+P 3400 3000
+F 0 "U1" H 3400 1111 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 3400 1020 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 3400 3000 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3400 3000 50  0001 C CNN
+	1    3400 3000
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	3400 4800 3300 4800
-Connection ~ 3200 4800
-Wire Wire Line
-	3200 4800 2950 4800
 Connection ~ 3300 4800
 Wire Wire Line
-	3300 4800 3200 4800
+	2950 4800 3300 4800
+Text GLabel 4000 3200 2    50   Input ~ 0
+ROW3
+Text GLabel 4000 3000 2    50   Input ~ 0
+ROW2
+Text GLabel 4000 2900 2    50   Input ~ 0
+ROW1
+Text GLabel 4000 2800 2    50   Input ~ 0
+ROW0
+Text GLabel 4000 2700 2    50   Input ~ 0
+ROW4
+Text GLabel 4000 1800 2    50   Input ~ 0
+COL0
+Text GLabel 4000 1700 2    50   Input ~ 0
+COL2
+Text GLabel 4000 1600 2    50   Input ~ 0
+COL3
+Text GLabel 4000 1500 2    50   Input ~ 0
+COL4
+Text GLabel 4000 3700 2    50   Input ~ 0
+COL5
+Text GLabel 4000 3900 2    50   Input ~ 0
+COL6
+Text GLabel 4000 4000 2    50   Input ~ 0
+COL7
+Text GLabel 4000 4100 2    50   Input ~ 0
+COL8
+Text GLabel 4000 4200 2    50   Input ~ 0
+COL9
+Text GLabel 4000 4300 2    50   Input ~ 0
+COL10
+Text GLabel 4000 4400 2    50   Input ~ 0
+COL11
+Text GLabel 4000 1900 2    50   Input ~ 0
+COL12
+Text GLabel 4000 2100 2    50   Input ~ 0
+COL13
 $EndSCHEMATC
