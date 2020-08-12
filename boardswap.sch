@@ -296,17 +296,6 @@ Wire Wire Line
 	2450 2800 2450 2900
 Wire Wire Line
 	2800 2800 2450 2800
-$Comp
-L Device:C_Small C3
-U 1 1 5F32256C
-P 2450 3000
-F 0 "C3" H 2542 3046 50  0000 L CNN
-F 1 "1uF" H 2542 2955 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 2450 3000 50  0001 C CNN
-F 3 "~" H 2450 3000 50  0001 C CNN
-	1    2450 3000
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1550 2600 1400 2600
 Wire Wire Line
@@ -2581,40 +2570,51 @@ Wire Wire Line
 Connection ~ 3300 4800
 Wire Wire Line
 	2950 4800 3300 4800
-Text GLabel 4000 3200 2    50   Input ~ 0
-ROW3
-Text GLabel 4000 3000 2    50   Input ~ 0
-ROW2
-Text GLabel 4000 2900 2    50   Input ~ 0
-ROW1
-Text GLabel 4000 2800 2    50   Input ~ 0
-ROW0
-Text GLabel 4000 2700 2    50   Input ~ 0
-ROW4
-Text GLabel 4000 1800 2    50   Input ~ 0
-COL0
-Text GLabel 4000 1700 2    50   Input ~ 0
-COL2
-Text GLabel 4000 1600 2    50   Input ~ 0
-COL3
-Text GLabel 4000 1500 2    50   Input ~ 0
-COL4
-Text GLabel 4000 3700 2    50   Input ~ 0
-COL5
 Text GLabel 4000 3900 2    50   Input ~ 0
-COL6
+ROW3
 Text GLabel 4000 4000 2    50   Input ~ 0
-COL7
+ROW2
 Text GLabel 4000 4100 2    50   Input ~ 0
-COL8
+ROW1
 Text GLabel 4000 4200 2    50   Input ~ 0
-COL9
+ROW0
 Text GLabel 4000 4300 2    50   Input ~ 0
+ROW4
+Text GLabel 4000 3700 2    50   Input ~ 0
+COL0
+Text GLabel 4000 3000 2    50   Input ~ 0
+COL3
+Text GLabel 4000 2900 2    50   Input ~ 0
+COL4
+Text GLabel 4000 2800 2    50   Input ~ 0
+COL5
+Text GLabel 4000 2700 2    50   Input ~ 0
+COL6
+Text GLabel 4000 3300 2    50   Input ~ 0
+COL7
+Text GLabel 4000 3100 2    50   Input ~ 0
+COL8
+Text GLabel 4000 2200 2    50   Input ~ 0
+COL9
+Text GLabel 4000 1800 2    50   Input ~ 0
 COL10
-Text GLabel 4000 4400 2    50   Input ~ 0
+Text GLabel 4000 1700 2    50   Input ~ 0
 COL11
-Text GLabel 4000 2100 2    50   Input ~ 0
+Text GLabel 4000 1600 2    50   Input ~ 0
 COL12
-Text GLabel 4000 1900 2    50   Input ~ 0
+Text GLabel 4000 1500 2    50   Input ~ 0
 COL13
+$Comp
+L Device:C_Small C3
+U 1 1 5F32256C
+P 2450 3000
+F 0 "C3" H 2542 3046 50  0000 L CNN
+F 1 "1uF" H 2542 2955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2450 3000 50  0001 C CNN
+F 3 "~" H 2450 3000 50  0001 C CNN
+	1    2450 3000
+	1    0    0    -1  
+$EndComp
+Text GLabel 4000 3200 2    50   Input ~ 0
+COL2
 $EndSCHEMATC
