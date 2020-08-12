@@ -483,7 +483,7 @@ U 1 1 5F3A24F3
 P 5800 1500
 F 0 "MX1" H 5833 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5175 1475 60  0001 C CNN
 F 3 "" H 5175 1475 60  0001 C CNN
 	1    5800 1500
 	1    0    0    -1  
@@ -507,7 +507,7 @@ U 1 1 5F3C97A5
 P 6150 1500
 F 0 "MX2" H 6183 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 6183 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5525 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5525 1475 60  0001 C CNN
 F 3 "" H 5525 1475 60  0001 C CNN
 	1    6150 1500
 	1    0    0    -1  
@@ -531,7 +531,7 @@ U 1 1 5F3CB2E5
 P 6500 1500
 F 0 "MX3" H 6533 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 6533 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5875 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5875 1475 60  0001 C CNN
 F 3 "" H 5875 1475 60  0001 C CNN
 	1    6500 1500
 	1    0    0    -1  
@@ -555,7 +555,7 @@ U 1 1 5F3CEB61
 P 6850 1500
 F 0 "MX4" H 6883 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 6883 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6225 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6225 1475 60  0001 C CNN
 F 3 "" H 6225 1475 60  0001 C CNN
 	1    6850 1500
 	1    0    0    -1  
@@ -579,7 +579,7 @@ U 1 1 5F3CEB6E
 P 7200 1500
 F 0 "MX5" H 7233 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6575 1475 60  0001 C CNN
 F 3 "" H 6575 1475 60  0001 C CNN
 	1    7200 1500
 	1    0    0    -1  
@@ -603,7 +603,7 @@ U 1 1 5F3CEB7B
 P 7550 1500
 F 0 "MX6" H 7583 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 7583 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6925 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6925 1475 60  0001 C CNN
 F 3 "" H 6925 1475 60  0001 C CNN
 	1    7550 1500
 	1    0    0    -1  
@@ -627,7 +627,7 @@ U 1 1 5F3D37EE
 P 7900 1500
 F 0 "MX7" H 7933 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 7933 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7275 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7275 1475 60  0001 C CNN
 F 3 "" H 7275 1475 60  0001 C CNN
 	1    7900 1500
 	1    0    0    -1  
@@ -651,7 +651,7 @@ U 1 1 5F3D37FB
 P 8250 1500
 F 0 "MX8" H 8283 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 8283 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7625 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7625 1475 60  0001 C CNN
 F 3 "" H 7625 1475 60  0001 C CNN
 	1    8250 1500
 	1    0    0    -1  
@@ -675,7 +675,7 @@ U 1 1 5F3D3808
 P 8600 1500
 F 0 "MX9" H 8633 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 8633 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7975 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7975 1475 60  0001 C CNN
 F 3 "" H 7975 1475 60  0001 C CNN
 	1    8600 1500
 	1    0    0    -1  
@@ -712,7 +712,7 @@ U 1 1 5F3D3815
 P 8950 1500
 F 0 "MX10" H 8983 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 8983 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8325 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8325 1475 60  0001 C CNN
 F 3 "" H 8325 1475 60  0001 C CNN
 	1    8950 1500
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 5F3D3822
 P 9300 1500
 F 0 "MX11" H 9333 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 9333 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8675 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8675 1475 60  0001 C CNN
 F 3 "" H 8675 1475 60  0001 C CNN
 	1    9300 1500
 	1    0    0    -1  
@@ -747,7 +747,7 @@ U 1 1 5F3D382F
 P 9650 1500
 F 0 "MX12" H 9683 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9025 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9025 1475 60  0001 C CNN
 F 3 "" H 9025 1475 60  0001 C CNN
 	1    9650 1500
 	1    0    0    -1  
@@ -771,7 +771,7 @@ U 1 1 5F3E18E4
 P 10000 1500
 F 0 "MX13" H 10033 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 10033 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9375 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9375 1475 60  0001 C CNN
 F 3 "" H 9375 1475 60  0001 C CNN
 	1    10000 1500
 	1    0    0    -1  
@@ -795,7 +795,7 @@ U 1 1 5F3E18F1
 P 10350 1500
 F 0 "MX14" H 10383 1723 60  0000 C CNN
 F 1 "MX-NoLED" H 10383 1649 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9725 1475 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9725 1475 60  0001 C CNN
 F 3 "" H 9725 1475 60  0001 C CNN
 	1    10350 1500
 	1    0    0    -1  
@@ -819,7 +819,7 @@ U 1 1 5F3EEFEE
 P 5800 2150
 F 0 "MX15" H 5833 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5175 2125 60  0001 C CNN
 F 3 "" H 5175 2125 60  0001 C CNN
 	1    5800 2150
 	1    0    0    -1  
@@ -843,7 +843,7 @@ U 1 1 5F3EEFFB
 P 6150 2150
 F 0 "MX16" H 6183 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 6183 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5525 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5525 2125 60  0001 C CNN
 F 3 "" H 5525 2125 60  0001 C CNN
 	1    6150 2150
 	1    0    0    -1  
@@ -867,7 +867,7 @@ U 1 1 5F3EF008
 P 6500 2150
 F 0 "MX17" H 6533 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 6533 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5875 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5875 2125 60  0001 C CNN
 F 3 "" H 5875 2125 60  0001 C CNN
 	1    6500 2150
 	1    0    0    -1  
@@ -891,7 +891,7 @@ U 1 1 5F3EF015
 P 6850 2150
 F 0 "MX18" H 6883 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 6883 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6225 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6225 2125 60  0001 C CNN
 F 3 "" H 6225 2125 60  0001 C CNN
 	1    6850 2150
 	1    0    0    -1  
@@ -915,7 +915,7 @@ U 1 1 5F3EF022
 P 7200 2150
 F 0 "MX19" H 7233 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6575 2125 60  0001 C CNN
 F 3 "" H 6575 2125 60  0001 C CNN
 	1    7200 2150
 	1    0    0    -1  
@@ -939,7 +939,7 @@ U 1 1 5F3EF02F
 P 7550 2150
 F 0 "MX20" H 7583 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 7583 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6925 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6925 2125 60  0001 C CNN
 F 3 "" H 6925 2125 60  0001 C CNN
 	1    7550 2150
 	1    0    0    -1  
@@ -963,7 +963,7 @@ U 1 1 5F3EF03C
 P 7900 2150
 F 0 "MX21" H 7933 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 7933 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7275 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7275 2125 60  0001 C CNN
 F 3 "" H 7275 2125 60  0001 C CNN
 	1    7900 2150
 	1    0    0    -1  
@@ -987,7 +987,7 @@ U 1 1 5F3EF049
 P 8250 2150
 F 0 "MX22" H 8283 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 8283 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7625 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7625 2125 60  0001 C CNN
 F 3 "" H 7625 2125 60  0001 C CNN
 	1    8250 2150
 	1    0    0    -1  
@@ -1011,7 +1011,7 @@ U 1 1 5F3EF056
 P 8600 2150
 F 0 "MX23" H 8633 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 8633 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7975 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7975 2125 60  0001 C CNN
 F 3 "" H 7975 2125 60  0001 C CNN
 	1    8600 2150
 	1    0    0    -1  
@@ -1048,7 +1048,7 @@ U 1 1 5F3EF06A
 P 8950 2150
 F 0 "MX24" H 8983 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 8983 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8325 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8325 2125 60  0001 C CNN
 F 3 "" H 8325 2125 60  0001 C CNN
 	1    8950 2150
 	1    0    0    -1  
@@ -1059,7 +1059,7 @@ U 1 1 5F3EF070
 P 9300 2150
 F 0 "MX25" H 9333 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 9333 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8675 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8675 2125 60  0001 C CNN
 F 3 "" H 8675 2125 60  0001 C CNN
 	1    9300 2150
 	1    0    0    -1  
@@ -1083,7 +1083,7 @@ U 1 1 5F3EF07D
 P 9650 2150
 F 0 "MX26" H 9683 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9025 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9025 2125 60  0001 C CNN
 F 3 "" H 9025 2125 60  0001 C CNN
 	1    9650 2150
 	1    0    0    -1  
@@ -1107,7 +1107,7 @@ U 1 1 5F3EF08A
 P 10000 2150
 F 0 "MX27" H 10033 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 10033 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9375 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9375 2125 60  0001 C CNN
 F 3 "" H 9375 2125 60  0001 C CNN
 	1    10000 2150
 	1    0    0    -1  
@@ -1131,7 +1131,7 @@ U 1 1 5F3EF097
 P 10350 2150
 F 0 "MX28" H 10383 2373 60  0000 C CNN
 F 1 "MX-NoLED" H 10383 2299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9725 2125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9725 2125 60  0001 C CNN
 F 3 "" H 9725 2125 60  0001 C CNN
 	1    10350 2150
 	1    0    0    -1  
@@ -1155,7 +1155,7 @@ U 1 1 5F3FAD3C
 P 5800 2800
 F 0 "MX29" H 5833 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5175 2775 60  0001 C CNN
 F 3 "" H 5175 2775 60  0001 C CNN
 	1    5800 2800
 	1    0    0    -1  
@@ -1179,7 +1179,7 @@ U 1 1 5F3FAD49
 P 6150 2800
 F 0 "MX30" H 6183 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 6183 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5525 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5525 2775 60  0001 C CNN
 F 3 "" H 5525 2775 60  0001 C CNN
 	1    6150 2800
 	1    0    0    -1  
@@ -1203,7 +1203,7 @@ U 1 1 5F3FAD56
 P 6500 2800
 F 0 "MX31" H 6533 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 6533 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5875 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5875 2775 60  0001 C CNN
 F 3 "" H 5875 2775 60  0001 C CNN
 	1    6500 2800
 	1    0    0    -1  
@@ -1227,7 +1227,7 @@ U 1 1 5F3FAD63
 P 6850 2800
 F 0 "MX32" H 6883 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 6883 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6225 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6225 2775 60  0001 C CNN
 F 3 "" H 6225 2775 60  0001 C CNN
 	1    6850 2800
 	1    0    0    -1  
@@ -1251,7 +1251,7 @@ U 1 1 5F3FAD70
 P 7200 2800
 F 0 "MX33" H 7233 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6575 2775 60  0001 C CNN
 F 3 "" H 6575 2775 60  0001 C CNN
 	1    7200 2800
 	1    0    0    -1  
@@ -1275,7 +1275,7 @@ U 1 1 5F3FAD7D
 P 7550 2800
 F 0 "MX34" H 7583 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 7583 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6925 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6925 2775 60  0001 C CNN
 F 3 "" H 6925 2775 60  0001 C CNN
 	1    7550 2800
 	1    0    0    -1  
@@ -1299,7 +1299,7 @@ U 1 1 5F3FAD8A
 P 7900 2800
 F 0 "MX35" H 7933 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 7933 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7275 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7275 2775 60  0001 C CNN
 F 3 "" H 7275 2775 60  0001 C CNN
 	1    7900 2800
 	1    0    0    -1  
@@ -1323,7 +1323,7 @@ U 1 1 5F3FAD97
 P 8250 2800
 F 0 "MX36" H 8283 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 8283 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7625 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7625 2775 60  0001 C CNN
 F 3 "" H 7625 2775 60  0001 C CNN
 	1    8250 2800
 	1    0    0    -1  
@@ -1347,7 +1347,7 @@ U 1 1 5F3FADA4
 P 8600 2800
 F 0 "MX37" H 8633 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 8633 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7975 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7975 2775 60  0001 C CNN
 F 3 "" H 7975 2775 60  0001 C CNN
 	1    8600 2800
 	1    0    0    -1  
@@ -1384,7 +1384,7 @@ U 1 1 5F3FADB8
 P 8950 2800
 F 0 "MX38" H 8983 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 8983 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8325 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8325 2775 60  0001 C CNN
 F 3 "" H 8325 2775 60  0001 C CNN
 	1    8950 2800
 	1    0    0    -1  
@@ -1395,7 +1395,7 @@ U 1 1 5F3FADBE
 P 9300 2800
 F 0 "MX39" H 9333 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 9333 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8675 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8675 2775 60  0001 C CNN
 F 3 "" H 8675 2775 60  0001 C CNN
 	1    9300 2800
 	1    0    0    -1  
@@ -1419,7 +1419,7 @@ U 1 1 5F3FADCB
 P 9650 2800
 F 0 "MX40" H 9683 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9025 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9025 2775 60  0001 C CNN
 F 3 "" H 9025 2775 60  0001 C CNN
 	1    9650 2800
 	1    0    0    -1  
@@ -1443,7 +1443,7 @@ U 1 1 5F3FADD8
 P 10000 2800
 F 0 "MX41" H 10033 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 10033 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9375 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9375 2775 60  0001 C CNN
 F 3 "" H 9375 2775 60  0001 C CNN
 	1    10000 2800
 	1    0    0    -1  
@@ -1467,7 +1467,7 @@ U 1 1 5F3FADE5
 P 10350 2800
 F 0 "MX42" H 10383 3023 60  0000 C CNN
 F 1 "MX-NoLED" H 10383 2949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9725 2775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9725 2775 60  0001 C CNN
 F 3 "" H 9725 2775 60  0001 C CNN
 	1    10350 2800
 	1    0    0    -1  
@@ -1491,7 +1491,7 @@ U 1 1 5F408AD9
 P 5800 3450
 F 0 "MX43" H 5833 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5175 3425 60  0001 C CNN
 F 3 "" H 5175 3425 60  0001 C CNN
 	1    5800 3450
 	1    0    0    -1  
@@ -1515,7 +1515,7 @@ U 1 1 5F408AE6
 P 6150 3450
 F 0 "MX44" H 6183 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 6183 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5525 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5525 3425 60  0001 C CNN
 F 3 "" H 5525 3425 60  0001 C CNN
 	1    6150 3450
 	1    0    0    -1  
@@ -1539,7 +1539,7 @@ U 1 1 5F408AF3
 P 6500 3450
 F 0 "MX45" H 6533 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 6533 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5875 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5875 3425 60  0001 C CNN
 F 3 "" H 5875 3425 60  0001 C CNN
 	1    6500 3450
 	1    0    0    -1  
@@ -1563,7 +1563,7 @@ U 1 1 5F408B00
 P 6850 3450
 F 0 "MX46" H 6883 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 6883 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6225 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6225 3425 60  0001 C CNN
 F 3 "" H 6225 3425 60  0001 C CNN
 	1    6850 3450
 	1    0    0    -1  
@@ -1587,7 +1587,7 @@ U 1 1 5F408B0D
 P 7200 3450
 F 0 "MX47" H 7233 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6575 3425 60  0001 C CNN
 F 3 "" H 6575 3425 60  0001 C CNN
 	1    7200 3450
 	1    0    0    -1  
@@ -1611,7 +1611,7 @@ U 1 1 5F408B1A
 P 7550 3450
 F 0 "MX48" H 7583 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 7583 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6925 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6925 3425 60  0001 C CNN
 F 3 "" H 6925 3425 60  0001 C CNN
 	1    7550 3450
 	1    0    0    -1  
@@ -1635,7 +1635,7 @@ U 1 1 5F408B27
 P 7900 3450
 F 0 "MX49" H 7933 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 7933 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7275 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7275 3425 60  0001 C CNN
 F 3 "" H 7275 3425 60  0001 C CNN
 	1    7900 3450
 	1    0    0    -1  
@@ -1659,7 +1659,7 @@ U 1 1 5F408B34
 P 8250 3450
 F 0 "MX50" H 8283 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 8283 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7625 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7625 3425 60  0001 C CNN
 F 3 "" H 7625 3425 60  0001 C CNN
 	1    8250 3450
 	1    0    0    -1  
@@ -1683,7 +1683,7 @@ U 1 1 5F408B41
 P 8600 3450
 F 0 "MX51" H 8633 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 8633 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7975 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7975 3425 60  0001 C CNN
 F 3 "" H 7975 3425 60  0001 C CNN
 	1    8600 3450
 	1    0    0    -1  
@@ -1720,7 +1720,7 @@ U 1 1 5F408B55
 P 8950 3450
 F 0 "MX52" H 8983 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 8983 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8325 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8325 3425 60  0001 C CNN
 F 3 "" H 8325 3425 60  0001 C CNN
 	1    8950 3450
 	1    0    0    -1  
@@ -1731,7 +1731,7 @@ U 1 1 5F408B5B
 P 9300 3450
 F 0 "MX53" H 9333 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 9333 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8675 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8675 3425 60  0001 C CNN
 F 3 "" H 8675 3425 60  0001 C CNN
 	1    9300 3450
 	1    0    0    -1  
@@ -1755,7 +1755,7 @@ U 1 1 5F408B68
 P 9650 3450
 F 0 "MX54" H 9683 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9025 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9025 3425 60  0001 C CNN
 F 3 "" H 9025 3425 60  0001 C CNN
 	1    9650 3450
 	1    0    0    -1  
@@ -1779,7 +1779,7 @@ U 1 1 5F408B75
 P 10000 3450
 F 0 "MX55" H 10033 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 10033 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9375 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9375 3425 60  0001 C CNN
 F 3 "" H 9375 3425 60  0001 C CNN
 	1    10000 3450
 	1    0    0    -1  
@@ -1803,7 +1803,7 @@ U 1 1 5F408B82
 P 10350 3450
 F 0 "MX56" H 10383 3673 60  0000 C CNN
 F 1 "MX-NoLED" H 10383 3599 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9725 3425 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9725 3425 60  0001 C CNN
 F 3 "" H 9725 3425 60  0001 C CNN
 	1    10350 3450
 	1    0    0    -1  
@@ -1827,7 +1827,7 @@ U 1 1 5F4127F0
 P 5800 4100
 F 0 "MX57" H 5833 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 5833 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5175 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5175 4075 60  0001 C CNN
 F 3 "" H 5175 4075 60  0001 C CNN
 	1    5800 4100
 	1    0    0    -1  
@@ -1851,7 +1851,7 @@ U 1 1 5F4127FD
 P 6150 4100
 F 0 "MX58" H 6183 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 6183 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5525 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5525 4075 60  0001 C CNN
 F 3 "" H 5525 4075 60  0001 C CNN
 	1    6150 4100
 	1    0    0    -1  
@@ -1875,7 +1875,7 @@ U 1 1 5F41280A
 P 6500 4100
 F 0 "MX59" H 6533 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 6533 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 5875 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 5875 4075 60  0001 C CNN
 F 3 "" H 5875 4075 60  0001 C CNN
 	1    6500 4100
 	1    0    0    -1  
@@ -1899,7 +1899,7 @@ U 1 1 5F412817
 P 6850 4100
 F 0 "MX60" H 6883 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 6883 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6225 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6225 4075 60  0001 C CNN
 F 3 "" H 6225 4075 60  0001 C CNN
 	1    6850 4100
 	1    0    0    -1  
@@ -1923,7 +1923,7 @@ U 1 1 5F412824
 P 7200 4100
 F 0 "MX61" H 7233 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 7233 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6575 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6575 4075 60  0001 C CNN
 F 3 "" H 6575 4075 60  0001 C CNN
 	1    7200 4100
 	1    0    0    -1  
@@ -1960,7 +1960,7 @@ U 1 1 5F41284B
 P 8250 4100
 F 0 "MX63" H 8283 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 8283 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 7625 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 7625 4075 60  0001 C CNN
 F 3 "" H 7625 4075 60  0001 C CNN
 	1    8250 4100
 	1    0    0    -1  
@@ -1997,7 +1997,7 @@ U 1 1 5F41286C
 P 8950 4100
 F 0 "MX64" H 8983 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 8983 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8325 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8325 4075 60  0001 C CNN
 F 3 "" H 8325 4075 60  0001 C CNN
 	1    8950 4100
 	1    0    0    -1  
@@ -2008,7 +2008,7 @@ U 1 1 5F412872
 P 9300 4100
 F 0 "MX65" H 9333 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 9333 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 8675 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 8675 4075 60  0001 C CNN
 F 3 "" H 8675 4075 60  0001 C CNN
 	1    9300 4100
 	1    0    0    -1  
@@ -2032,7 +2032,7 @@ U 1 1 5F41287F
 P 9650 4100
 F 0 "MX66" H 9683 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 9683 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9025 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9025 4075 60  0001 C CNN
 F 3 "" H 9025 4075 60  0001 C CNN
 	1    9650 4100
 	1    0    0    -1  
@@ -2056,7 +2056,7 @@ U 1 1 5F41288C
 P 10000 4100
 F 0 "MX67" H 10033 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 10033 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9375 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9375 4075 60  0001 C CNN
 F 3 "" H 9375 4075 60  0001 C CNN
 	1    10000 4100
 	1    0    0    -1  
@@ -2080,7 +2080,7 @@ U 1 1 5F412899
 P 10350 4100
 F 0 "MX68" H 10383 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 10383 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 9725 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 9725 4075 60  0001 C CNN
 F 3 "" H 9725 4075 60  0001 C CNN
 	1    10350 4100
 	1    0    0    -1  
@@ -2104,7 +2104,7 @@ U 1 1 5F412831
 P 7550 4100
 F 0 "MX62" H 7583 4323 60  0000 C CNN
 F 1 "MX-NoLED" H 7583 4249 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX" H 6925 4075 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX_alt" H 6925 4075 60  0001 C CNN
 F 3 "" H 6925 4075 60  0001 C CNN
 	1    7550 4100
 	1    0    0    -1  
