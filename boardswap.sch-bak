@@ -34,7 +34,7 @@ U 1 1 5F349CE3
 P 1200 6500
 F 0 "J1" H 1307 7367 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 1307 7276 50  0000 C CNN
-F 2 "Type-C:USB_C_GCT_USB4085" H 1350 6500 50  0001 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 1350 6500 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1350 6500 50  0001 C CNN
 	1    1200 6500
 	1    0    0    -1  
